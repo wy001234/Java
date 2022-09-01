@@ -11,13 +11,13 @@ public class p175 {
 		this.money = money;
 	}
 	
-	public void takeBus(Bus bus) {
+	public void takeBus(p177 bus) {
 		bus.take(1000);
 		this.money -= 1000;
 	}
 	
-	public void takeSubway(Subway subWay) {
-		subwsay.take(1500);
+	public void takeSubway(p178_2 subway) {
+		subway.take(1500);
 		this.money -= 1500;
 	}
 	
