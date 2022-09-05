@@ -11,8 +11,8 @@ public class Student {
 		return studentName;
 	}
 	
-	public void setStudentName(String name) {
-		studentName = name;
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
 	}
 	
 	public static void main(String[] args) {
