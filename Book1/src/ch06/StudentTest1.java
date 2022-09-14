@@ -10,6 +10,6 @@ public class StudentTest1 {
 		Student studentSon = new Student(null, 0);
 		studentSon.setStudentName("손수경");
 		System.out.println(studentSon.seriaNum);
-		System.out.println(studentLee.seriaNum);
+		System.out.println(studentLee.senriaNum);
 	}
 }
